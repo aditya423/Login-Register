@@ -15,5 +15,5 @@ A secure PHP API to manage login and signup operations. This API protects from a
 9) Go to Apache server link will be something like this http://localhost/dashboard
 10) Change this link to http://localhost/Login-Register/login.php 
 
-# Note:
+### Note:
 htdocs me jo folder paste kiya hai woh http://localhost/ ke aage type kardo (here it is Login-Register) you will see our all the php files then select any to see (I selected login.php here because this is our starting point)
